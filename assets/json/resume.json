@@ -29,8 +29,9 @@
       "url": "https://www.ubc.ca/",
       "area": "Physics",
       "studyType": "MSc",
+      "summary": "Focusing on condensed matter physics and quantum information.",
       "startDate": "2023-09-01",
-      "endDate": "2025-05-30"
+      "endDate": "2026-05-30"
     },
     {
       "institution": "University of British Columbia",
@@ -38,6 +39,7 @@
       "url": "https://www.ubc.ca/",
       "area": "Combined Honours: Physics and Mathematics",
       "studyType": "BSc",
+      "summary": "Coursework in ",
       "startDate": "2018-09-01",
       "endDate": "2023-05-30"
     }
@@ -68,7 +70,7 @@
       "startDate": "2020-05-01",
       "endDate": "2020-09-01",
       "summary": "Studied kappa distributions arising in space science by solution of associated Fokker-Planck and Schrödinger equation using quadrature discretization schemes.",
-      "highlights": ["Quantum information", "Quantum materials" ]
+      "highlights": ["statistical physics", "numerical methods" ]
     }
   ],
   "volunteer": [
