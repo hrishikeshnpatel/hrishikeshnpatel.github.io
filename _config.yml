@@ -43,7 +43,17 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
+navbar:
+  - title: "About"
+    url: https://hrishikeshnpatel.github.io/
+  - title: "CV"
+    url: https://hrishikeshnpatel.github.io/cv/
+  - title: "Publications"
+    url: https://hrishikeshnpatel.github.io/publications/
+  - title: "Hrishi tries to write"
+    url: https://hrishikeshnpatel.github.io/blog/
 
+  
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
