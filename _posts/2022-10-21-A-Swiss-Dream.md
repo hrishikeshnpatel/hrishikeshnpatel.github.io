@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Swiss Dream
-date: 2022-10-21 21:01:00
+date: 2022-10-21
 description: A copy of blog post from ERIP's Intern Blog (https://www.epfl.ch/education/international/en/a-swiss-dream/), about my travels and work in Switzerland in 2022. 
 tags: hiking
 #categories: sample-posts
